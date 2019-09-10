@@ -1,0 +1,14 @@
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Core.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Modelo.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Core.pdb
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Core.dll.config
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\Modelo.pdb
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Repositorio\obj\Debug\Repositorio.pdb

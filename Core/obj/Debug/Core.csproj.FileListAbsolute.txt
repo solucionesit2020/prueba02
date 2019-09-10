@@ -1,0 +1,14 @@
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\Core.dll.config
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\Core.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\Core.pdb
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\EntityFramework.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\Modelo.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\Modelo.pdb
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\EntityFramework.xml
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\obj\Debug\Core.dll
+C:\Users\Seintecnicsa\source\repos\AxysTest02\Core\obj\Debug\Core.pdb

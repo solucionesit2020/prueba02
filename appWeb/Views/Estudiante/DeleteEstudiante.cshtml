@@ -1,0 +1,61 @@
+﻿@model Modelo.EstudianteModelo
+@{
+    ViewBag.Title = "DeleteEstudiante";
+}
+
+<br />
+<br />
+
+@using (Html.BeginForm("DeleteEstudiante", "Estudiante", FormMethod.Post, new { id = "frm_estudianteDelete", @class = "form-horizontal" }))
+{
+    @Html.HiddenFor(x => x.Id)
+
+    <h2>Esta seguro de eliminar el estudiante: <label class="label label-primary">@Model.NombreCompleto</label></h2>
+
+    <br />
+
+    <div class="text-left">
+        <a href="/Estudiante" class="btn btn-default">Regresar</a>
+
+        <button type="submit" class="btn btn-danger">Borrar</button>
+
+    </div>
+}
+
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+
+
+            $("#frm_estudianteDelete").submit(function () {
+                var form = $(this);
+
+                $.ajax({
+                    dataType: 'JSON',
+                    type: 'POST',
+                    url: form.attr('action'),
+                    data: form.serialize(),
+                    success: function (r) {
+                        console.log("recibido: " + r);
+                        if (r.response) {
+                            alert(r.message);
+                            window.location.href = "/Estudiante";
+                        } else {
+                            alert(r.message);
+                        }
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.log(textStatus + ' ' + errorThrown);
+                    }
+                });
+
+                return false;
+            })
+
+
+        })
+    </script>
+}
+
+
